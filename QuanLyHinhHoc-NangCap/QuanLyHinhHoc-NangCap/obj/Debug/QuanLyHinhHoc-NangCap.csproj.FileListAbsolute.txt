@@ -1,0 +1,6 @@
+C:\Users\Maxsys\Desktop\BaiTap\OOP\OnTap\QuanLyHinhHoc-NangCap\QuanLyHinhHoc-NangCap\bin\Debug\QuanLyHinhHoc-NangCap.exe.config
+C:\Users\Maxsys\Desktop\BaiTap\OOP\OnTap\QuanLyHinhHoc-NangCap\QuanLyHinhHoc-NangCap\obj\Debug\QuanLyHinhHoc-NangCap.csprojResolveAssemblyReference.cache
+C:\Users\Maxsys\Desktop\BaiTap\OOP\OnTap\QuanLyHinhHoc-NangCap\QuanLyHinhHoc-NangCap\bin\Debug\QuanLyHinhHoc-NangCap.exe
+C:\Users\Maxsys\Desktop\BaiTap\OOP\OnTap\QuanLyHinhHoc-NangCap\QuanLyHinhHoc-NangCap\bin\Debug\QuanLyHinhHoc-NangCap.pdb
+C:\Users\Maxsys\Desktop\BaiTap\OOP\OnTap\QuanLyHinhHoc-NangCap\QuanLyHinhHoc-NangCap\obj\Debug\QuanLyHinhHoc-NangCap.exe
+C:\Users\Maxsys\Desktop\BaiTap\OOP\OnTap\QuanLyHinhHoc-NangCap\QuanLyHinhHoc-NangCap\obj\Debug\QuanLyHinhHoc-NangCap.pdb
