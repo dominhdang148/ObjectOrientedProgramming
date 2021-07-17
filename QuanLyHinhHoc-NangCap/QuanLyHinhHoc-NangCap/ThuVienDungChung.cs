@@ -56,14 +56,14 @@ namespace QuanLyHinhHoc_NangCap
 			//}
 			#endregion
 			#region Interchange Sort
-			for (int i = 0; i < length - 1; i++)
-			{
-				for (int j = i; j < length; j++)
-				{
-					if (KiemTraDieuKien(dstam[i], dstam[j], k) == 1)
-						Swap<HinhHoc>(ref dstam[i], ref dstam[j]);
-				}
-			}
+			//for (int i = 0; i < length - 1; i++)
+			//{
+			//	for (int j = i; j < length; j++)
+			//	{
+			//		if (KiemTraDieuKien(dstam[i], dstam[j], k) == 1)
+			//			Swap<HinhHoc>(ref dstam[i], ref dstam[j]);
+			//	}
+			//}
 			#endregion
 			#region QuickSort
 			Partition(dstam, 0, length - 1, k);
