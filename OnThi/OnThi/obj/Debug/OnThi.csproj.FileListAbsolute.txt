@@ -1,0 +1,6 @@
+C:\Users\Maxsys\Desktop\BaiTap\OOP\OnThi\OnThi\bin\Debug\OnThi.exe.config
+C:\Users\Maxsys\Desktop\BaiTap\OOP\OnThi\OnThi\obj\Debug\OnThi.csprojResolveAssemblyReference.cache
+C:\Users\Maxsys\Desktop\BaiTap\OOP\OnThi\OnThi\bin\Debug\OnThi.exe
+C:\Users\Maxsys\Desktop\BaiTap\OOP\OnThi\OnThi\bin\Debug\OnThi.pdb
+C:\Users\Maxsys\Desktop\BaiTap\OOP\OnThi\OnThi\obj\Debug\OnThi.exe
+C:\Users\Maxsys\Desktop\BaiTap\OOP\OnThi\OnThi\obj\Debug\OnThi.pdb
