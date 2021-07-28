@@ -1,0 +1,6 @@
+C:\Users\Maxsys\Desktop\BaiTap\OOP\HinhHoc_LamLai\HinhHoc_LamLai\bin\Debug\HinhHoc_LamLai.exe.config
+C:\Users\Maxsys\Desktop\BaiTap\OOP\HinhHoc_LamLai\HinhHoc_LamLai\obj\Debug\HinhHoc_LamLai.csprojResolveAssemblyReference.cache
+C:\Users\Maxsys\Desktop\BaiTap\OOP\HinhHoc_LamLai\HinhHoc_LamLai\bin\Debug\HinhHoc_LamLai.exe
+C:\Users\Maxsys\Desktop\BaiTap\OOP\HinhHoc_LamLai\HinhHoc_LamLai\bin\Debug\HinhHoc_LamLai.pdb
+C:\Users\Maxsys\Desktop\BaiTap\OOP\HinhHoc_LamLai\HinhHoc_LamLai\obj\Debug\HinhHoc_LamLai.exe
+C:\Users\Maxsys\Desktop\BaiTap\OOP\HinhHoc_LamLai\HinhHoc_LamLai\obj\Debug\HinhHoc_LamLai.pdb

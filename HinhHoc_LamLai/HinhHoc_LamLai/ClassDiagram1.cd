@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HinhHoc_LamLai.HinhTron" Collapsed="true">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACIgAAAAEAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HinhTron.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HinhHoc_LamLai.HinhHoc" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HinhHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HinhHoc_LamLai.HinhTamGiac" Collapsed="true">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAIgAAAAEAAAAABCAAAAAABIBAAAAAICAAAA=</HashCode>
+      <FileName>HinhTamGiac.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HinhHoc_LamLai.HinhVuong" Collapsed="true">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAEAAAEAAAAABAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>HinhVuong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HinhHoc_LamLai.HinhChuNhat" Collapsed="true">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAEQEAAABAAAAAAAIAEAAAAAAAAAAA=</HashCode>
+      <FileName>HinhChuNhat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HinhHoc_LamLai.DanhSachHinhHoc">
+    <Position X="2.25" Y="3" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAiggQAAEAEAIAAAAAAIAAAiAAwAAAAAAAAgAE=</HashCode>
+      <FileName>DanhSachHinhHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
