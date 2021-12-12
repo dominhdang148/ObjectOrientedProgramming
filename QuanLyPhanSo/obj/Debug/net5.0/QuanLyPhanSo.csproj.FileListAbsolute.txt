@@ -1,0 +1,16 @@
+D:\BaiTap\C#\QuanLyPhanSo\bin\Debug\net5.0\QuanLyPhanSo.exe
+D:\BaiTap\C#\QuanLyPhanSo\bin\Debug\net5.0\QuanLyPhanSo.deps.json
+D:\BaiTap\C#\QuanLyPhanSo\bin\Debug\net5.0\QuanLyPhanSo.runtimeconfig.json
+D:\BaiTap\C#\QuanLyPhanSo\bin\Debug\net5.0\QuanLyPhanSo.runtimeconfig.dev.json
+D:\BaiTap\C#\QuanLyPhanSo\bin\Debug\net5.0\QuanLyPhanSo.dll
+D:\BaiTap\C#\QuanLyPhanSo\bin\Debug\net5.0\ref\QuanLyPhanSo.dll
+D:\BaiTap\C#\QuanLyPhanSo\bin\Debug\net5.0\QuanLyPhanSo.pdb
+D:\BaiTap\C#\QuanLyPhanSo\obj\Debug\net5.0\QuanLyPhanSo.csprojAssemblyReference.cache
+D:\BaiTap\C#\QuanLyPhanSo\obj\Debug\net5.0\QuanLyPhanSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTap\C#\QuanLyPhanSo\obj\Debug\net5.0\QuanLyPhanSo.AssemblyInfoInputs.cache
+D:\BaiTap\C#\QuanLyPhanSo\obj\Debug\net5.0\QuanLyPhanSo.AssemblyInfo.cs
+D:\BaiTap\C#\QuanLyPhanSo\obj\Debug\net5.0\QuanLyPhanSo.csproj.CoreCompileInputs.cache
+D:\BaiTap\C#\QuanLyPhanSo\obj\Debug\net5.0\QuanLyPhanSo.dll
+D:\BaiTap\C#\QuanLyPhanSo\obj\Debug\net5.0\ref\QuanLyPhanSo.dll
+D:\BaiTap\C#\QuanLyPhanSo\obj\Debug\net5.0\QuanLyPhanSo.pdb
+D:\BaiTap\C#\QuanLyPhanSo\obj\Debug\net5.0\QuanLyPhanSo.genruntimeconfig.cache
